@@ -1,0 +1,26 @@
+# Launch Copilot
+.launch-copilot/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temp
+*.tmp
+*.bak
+*.backup
+
+# Node (if user adds tooling later)
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
